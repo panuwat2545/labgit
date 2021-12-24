@@ -1,4 +1,4 @@
-# add text on git hub
+﻿# add text on git hub
 # Hello
 ## Hi
 * Apple
@@ -135,7 +135,7 @@ console.log("advanced md");
 
 |หัวข้อ|หัวข้อ|
 -|-
-เนื้อหา|เนื้อหา
+เนื้อหา|เนื้อหาgti
 
 ---
 
